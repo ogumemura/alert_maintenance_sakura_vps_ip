@@ -12,7 +12,7 @@ This script sends an email alert if a specified IP address is found in the Sakur
 ## Installation
 
 1. Clone the repository:  
-git clone https://github.com/yourusername/alert_maintenance_sakura_vps_ip.git  
+git clone https://github.com/ogumemura/alert_maintenance_sakura_vps_ip.git  
 cd alert_maintenance_sakura_vps_ip
 
 2. Install the required packages (if required):  
